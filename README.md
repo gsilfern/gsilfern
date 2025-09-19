@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/guilhermefsag?tab=repositories](https://github.com/guilhermefsag?tab=repositories)
 
-- 📫 How to reach me **guilhermefsag@gmail.com**
+- 📫 How to reach me **gsilfern@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
