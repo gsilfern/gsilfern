@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Test Automation with Cypress, JavaScript, and API Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/guilhermefsag?tab=repositories](https://github.com/guilhermefsag?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/gsilfern?tab=repositories](https://github.com/gsilfern?tab=repositories)
 
 - 📫 How to reach me **gsilfern@gmail.com**
 
