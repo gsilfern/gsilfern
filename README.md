@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A QA Analyst in training 🤓 from Brazil 🇧🇷</h3>
+<h3 align="center">A QA Analyst 🤓 from Brazil 🇧🇷</h3>
 
-- 🌱 I’m currently learning **Test Automation with Cypress, JavaScript, and API Testing**
+- 🌱 I’m currently learning **Test Automation with Selenium, Cypress, JavaScript, and API Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsilfern?tab=repositories](https://github.com/gsilfern?tab=repositories)
 
